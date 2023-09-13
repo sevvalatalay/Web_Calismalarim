@@ -1,0 +1,28 @@
+.menu
+{
+    list-style-type: none;
+}
+
+.menu li
+{ float: left;
+}
+
+.menu li a
+{
+    text-decoration: none;
+    background-color: rgb(81, 64, 96);
+    color: aliceblue;
+    padding: 15px 25px;
+    font-size: 15px;
+}
+
+.menu li a:hover
+{
+    background-color: rgb(110, 96, 122);
+    transition: 500ms;
+}
+
+.container
+{
+    margin-top: 35px;
+}

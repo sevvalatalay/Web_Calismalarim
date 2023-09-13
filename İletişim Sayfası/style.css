@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(252, 208, 153);
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+
+.contact-page {
+  background-color: rgb(255, 255, 255);
+  padding: 30px 30px;
+}
+
+.header-page {
+  margin-bottom: 30px;
+}
+
+.input-content input {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 15px 25px;
+  box-sizing: border-box;
+}
+
+.input-content button {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(252, 208, 153);
+  color: white;
+  border: none;
+}
